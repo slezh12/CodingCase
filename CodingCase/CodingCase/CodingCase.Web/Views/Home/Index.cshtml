@@ -1,0 +1,54 @@
+﻿@model X.PagedList.IPagedList<ResultView>
+@using X.PagedList.Mvc.Core
+
+@{
+    ViewBag.Title = "SV";
+}
+
+@using (Html.BeginForm())
+{
+    <p>
+        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" class="btn-success" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            Guid
+        </th>
+        <th>
+            ObjectType
+        </th>
+        <th>
+            Weight
+        </th>
+        <th>
+            Description
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Guid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ObjectType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+        </tr>
+    }
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, currentFilter = ViewBag.CurrentFilter }))
