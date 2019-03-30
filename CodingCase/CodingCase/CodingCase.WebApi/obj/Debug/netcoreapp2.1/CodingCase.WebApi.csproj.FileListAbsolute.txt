@@ -11,3 +11,4 @@ C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebA
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.RazorTargetAssemblyInfo.cache
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.dll
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.pdb
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.csprojAssemblyReference.cache

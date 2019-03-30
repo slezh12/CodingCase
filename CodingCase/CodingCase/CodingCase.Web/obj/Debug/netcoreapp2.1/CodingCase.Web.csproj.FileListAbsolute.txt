@@ -2,7 +2,6 @@ C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Web\
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Web\bin\Debug\netcoreapp2.1\CodingCase.Web.runtimeconfig.json
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Web\bin\Debug\netcoreapp2.1\CodingCase.Web.runtimeconfig.dev.json
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Web\bin\Debug\netcoreapp2.1\CodingCase.Web.dll
-C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Web\obj\Debug\netcoreapp2.1\CodingCase.Web.csprojAssemblyReference.cache
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Web\obj\Debug\netcoreapp2.1\CodingCase.Web.csproj.CoreCompileInputs.cache
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Web\obj\Debug\netcoreapp2.1\CodingCase.Web.RazorAssemblyInfo.cache
 C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Web\obj\Debug\netcoreapp2.1\CodingCase.Web.RazorAssemblyInfo.cs

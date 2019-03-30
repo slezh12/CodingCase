@@ -1,0 +1,17 @@
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\CodingCase.Tests.deps.json
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\CodingCase.Tests.runtimeconfig.json
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\CodingCase.Tests.runtimeconfig.dev.json
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\CodingCase.Tests.dll
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\CodingCase.Tests.pdb
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\CodingCase.WebApi.dll
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\bin\Debug\netcoreapp2.1\CodingCase.WebApi.pdb
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\obj\Debug\netcoreapp2.1\CodingCase.Tests.csprojAssemblyReference.cache
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\obj\Debug\netcoreapp2.1\CodingCase.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\obj\Debug\netcoreapp2.1\CodingCase.Tests.AssemblyInfoInputs.cache
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\obj\Debug\netcoreapp2.1\CodingCase.Tests.AssemblyInfo.cs
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\obj\Debug\netcoreapp2.1\CodingCase.Tests.csproj.CopyComplete
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\obj\Debug\netcoreapp2.1\CodingCase.Tests.dll
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.Tests\obj\Debug\netcoreapp2.1\CodingCase.Tests.pdb
