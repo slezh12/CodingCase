@@ -1,0 +1,13 @@
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.RazorAssemblyInfo.cache
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.RazorAssemblyInfo.cs
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.AssemblyInfoInputs.cache
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.AssemblyInfo.cs
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\bin\Debug\netcoreapp2.1\CodingCase.WebApi.deps.json
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\bin\Debug\netcoreapp2.1\CodingCase.WebApi.runtimeconfig.json
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\bin\Debug\netcoreapp2.1\CodingCase.WebApi.runtimeconfig.dev.json
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\bin\Debug\netcoreapp2.1\CodingCase.WebApi.dll
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\bin\Debug\netcoreapp2.1\CodingCase.WebApi.pdb
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.dll
+C:\Users\sandro.lezhava\Desktop\CodingCase\CodingCase\CodingCase\CodingCase.WebApi\obj\Debug\netcoreapp2.1\CodingCase.WebApi.pdb
